@@ -1,3 +1,3 @@
-## 1. skimage 라이브러리를 이용한 객체 바운딩 박스 적용 및 pybboxes 라이브러리를 이용한 바운딩 박스 좌푯값 저장
-## 2. Yolov8을 이용한 딥러닝 수행 및 모델 파일(best.pt) 확보
-## 3. 딥러닝 모델을 이용한 정자 객체 탐지 및 출력 결과와 CASA 시스템 결과 비교
+## 1. preprocessing_skimage.ipynb: skimage 라이브러리를 이용한 객체 바운딩 박스 적용 및 pybboxes 라이브러리를 이용한 바운딩 박스 좌푯값 저장
+## 2. 20230823_yolov8.ipynb: Yolov8을 이용한 딥러닝 수행 및 모델 파일(best.pt) 확보
+## 3. DemoSystem.ipynb: 딥러닝 모델을 이용한 정자 객체 탐지 및 출력 결과와 CASA 시스템 결과 비교
