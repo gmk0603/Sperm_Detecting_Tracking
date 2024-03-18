@@ -6,4 +6,3 @@
 #### ※ preprocessing_threshold.ipynb: OpenCV를 활용한 객체 바운딩 박스 적용 시도(skimage 라이브러리에 비해 정확도 낮음)
 
 Youtube link: https://youtu.be/mXQ_Yj5fIQs
-[![Video Lavel](https://youtu.be/mXQ_Yj5fIQs/0.jpg)](https://youtu.be/mXQ_Yj5fIQs)
