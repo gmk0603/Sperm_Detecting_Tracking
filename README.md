@@ -6,3 +6,4 @@
 #### ※ preprocessing_threshold.ipynb: OpenCV를 활용한 객체 바운딩 박스 적용 시도(skimage 라이브러리에 비해 정확도 낮음)
 
 Youtube link: https://youtu.be/mXQ_Yj5fIQs
+![Thumbnail1](https://github.com/gmk0603/Sperm_Detecting_Tracking/assets/57435225/66e41090-2259-495e-b264-2b22d7e4e7af)
