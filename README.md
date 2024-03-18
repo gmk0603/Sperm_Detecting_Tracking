@@ -3,4 +3,4 @@
 ## 3. 20230823_yolov8.ipynb: Yolov8을 이용한 딥러닝 수행 및 모델 파일(best.pt) 확보
 ## 4. DemoSystem.ipynb: 딥러닝 모델을 이용한 정자 객체 탐지 및 출력 결과와 CASA 시스템 결과 비교
 
-※ 
+#### ※ preprocessing_threshold.ipynb: OpenCV를 활용한 객체 바운딩 박스 적용 시도(skimage 라이브러리에 비해 정확도 낮음)
